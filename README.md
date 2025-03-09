@@ -8,7 +8,6 @@ Welcome to **Mad Libs**, a fun and interactive word game where you create hilari
 2. It inserts those words into a **pre-written story**.  
 3. The result is a **funny and unique story** every time!  
 
-   ```
 
 ## 🎮 Example Output  
 
